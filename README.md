@@ -1,3 +1,2 @@
-## Welcome to Team 9's webpage
-
-![Imgur](http://i.imgur.com/2dRvwO5.png)
+# 9bitDev
+Main repository for team 9's group project.
